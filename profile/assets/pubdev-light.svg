@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="268" height="56" viewBox="0 0 268 56" fill="none" role="img" aria-label="pub.dev packages">
+  <rect x="0.75" y="0.75" width="266.5" height="54.5" rx="12" fill="#ffffff" stroke="#d8e0ec" stroke-width="1.5"/>
+  <g transform="translate(24 17)" fill="none" stroke="#2563eb" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M11 1L1 11v7l4 4h7l10-10V6z"/><path d="M5 15l6-6"/></g>
+  <text x="66" y="34" font-family="ui-sans-serif,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="16.5" font-weight="600" fill="#0f1419">pub.dev packages</text>
+  <path d="M236 22l6 6-6 6" stroke="#0f1419" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.55" fill="none"/>
+</svg>

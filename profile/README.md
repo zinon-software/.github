@@ -1,52 +1,80 @@
 <div align="center">
 
-# AR Dev
-
-**Abdulrahman** · Flutter &amp; Django developer · Yemen
-
-<br>
-
-### 👉 This is not the active account.
-
-`zinon-software` was renamed to **[@ardev-dev](https://github.com/ardev-dev)**.
-This organization is kept only so that links in already-published packages keep
-working — GitHub redirects, and holding the name prevents anyone else from
-claiming it.
-
-**Everything happens over there now.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/hero-dark.svg">
+  <img alt="AR Dev — Abdulrahman · Flutter & Django developer · Yemen" src="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/hero-light.svg" width="100%">
+</picture>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ardev.dev-4f8cff?style=for-the-badge&logo=safari&logoColor=white)](https://ardev.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-@ardev--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ardev-dev)
-[![pub.dev](https://img.shields.io/badge/pub.dev-ardev.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/ardev.dev/packages)
-[![Email](https://img.shields.io/badge/Email-contact@ardev.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ardev.dev)
+<a href="https://ardev.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/portfolio-dark.svg"><img alt="Portfolio — ardev.dev" src="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/portfolio-light.svg" width="244"></picture></a>
+<a href="https://github.com/ardev-dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/github-dark.svg"><img alt="GitHub — @ardev-dev" src="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/github-light.svg" width="244"></picture></a>
+<br>
+
+<a href="https://pub.dev/publishers/ardev.dev/packages"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/pubdev-dark.svg"><img alt="pub.dev packages" src="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/pubdev-light.svg" width="244"></picture></a>
+<a href="mailto:contact@ardev.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/email-dark.svg"><img alt="contact@ardev.dev" src="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/email-light.svg" width="244"></picture></a>
 
 </div>
 
 ---
 
+> [!IMPORTANT]
+> **This is not the active account.**
+> `zinon-software` was renamed to **[@ardev-dev](https://github.com/ardev-dev)**.
+> This organization is kept so links inside already-published packages keep
+> resolving, and so the name cannot be claimed by anyone else. All current work
+> lives on [@ardev-dev](https://github.com/ardev-dev).
+
 ## Published packages
 
 Maintained on pub.dev under the verified publisher **[ardev.dev](https://pub.dev/publishers/ardev.dev/packages)**.
 
-| Package | What it does |
-| --- | --- |
-| **[video_compressor_plus](https://pub.dev/packages/video_compressor_plus)** | Compress, trim, and mute videos and extract thumbnails using the platform's own encoders — no FFmpeg binaries, so nothing is added to your app's download size. A maintained continuation of `video_compress`, adding the Swift Package Manager support that four upstream pull requests never got merged. |
-| **[solar_community_icons](https://pub.dev/packages/solar_community_icons)** | Solar community icons for Flutter, in bold and linear styles. |
-| **[flutter_websocket_manager](https://pub.dev/packages/flutter_websocket_manager)** | WebSocket connection management for Flutter. |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## What I work with
+### [video_compressor_plus](https://pub.dev/packages/video_compressor_plus)
 
-`Flutter` · `Dart` · `BLoC` · `Clean Architecture`
-`Django` · `Django REST Framework` · `Python` · `PostgreSQL` · `Celery`
-`WebSockets` · `SSE` · `Firebase` · `Agora RTC`
-`Swift` · `Kotlin` · `CI/CD` · `App Store` · `Play` · `AppGallery`
+Compress, trim, and mute videos and extract thumbnails using the platform's own
+encoders — **no FFmpeg binaries**, so nothing is added to your app's download size.
 
----
+A maintained continuation of `video_compress`, adding the Swift Package Manager
+support that four upstream pull requests never got merged.
+
+`Dart` `Swift` `Kotlin` `SPM`
+
+</td>
+<td width="33%" valign="top">
+
+### [solar_community_icons](https://pub.dev/packages/solar_community_icons)
+
+Solar community icons for Flutter, in bold and linear styles.
+
+`Dart` `Flutter`
+
+</td>
+<td width="33%" valign="top">
+
+### [flutter_websocket_manager](https://pub.dev/packages/flutter_websocket_manager)
+
+WebSocket connection management for Flutter.
+
+`Dart` `Flutter`
+
+</td>
+</tr>
+</table>
+
+## Stack
+
+**Mobile** — Flutter · Dart · BLoC · Clean Architecture · Swift · Kotlin
+**Backend** — Django · Django REST Framework · Python · PostgreSQL · Celery
+**Realtime** — WebSockets · Server-Sent Events · Agora RTC · Firebase
+**Delivery** — CI/CD · App Store · Google Play · Huawei AppGallery
 
 <div align="center">
+<br>
 
-### [→ Go to @ardev-dev](https://github.com/ardev-dev) &nbsp;&nbsp;·&nbsp;&nbsp; [→ ardev.dev](https://ardev.dev)
+**[→ Continue to @ardev-dev](https://github.com/ardev-dev)** &nbsp; · &nbsp; **[→ ardev.dev](https://ardev.dev)**
 
 </div>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="268" height="56" viewBox="0 0 268 56" fill="none" role="img" aria-label="Portfolio — ardev.dev">
+  <rect x="0.75" y="0.75" width="266.5" height="54.5" rx="12" fill="#4f8cff" stroke="#4f8cff" stroke-width="1.5"/>
+  <g transform="translate(24 17)" fill="none" stroke="#0b0d10" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="10"/><path d="M1 11h20M11 1a16 16 0 010 20 16 16 0 010-20"/></g>
+  <text x="66" y="34" font-family="ui-sans-serif,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="16.5" font-weight="600" fill="#0b0d10">Portfolio — ardev.dev</text>
+  <path d="M236 22l6 6-6 6" stroke="#0b0d10" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.55" fill="none"/>
+</svg>
