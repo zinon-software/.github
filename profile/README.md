@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/hero-dark.svg">
-  <img alt="AR Dev — Abdulrahman · Flutter & Django developer · Yemen" src="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/hero-light.svg" width="100%">
+  <img alt="AR Dev — Abdulrahman · Senior Software Engineer · Saudi Arabia" src="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/hero-light.svg" width="100%">
 </picture>
 
 <br>
@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://pub.dev/publishers/ardev.dev/packages"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/pubdev-dark.svg"><img alt="pub.dev packages" src="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/pubdev-light.svg" width="244"></picture></a>
-<a href="mailto:contact@ardev.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/email-dark.svg"><img alt="contact@ardev.dev" src="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/email-light.svg" width="244"></picture></a>
+<a href="mailto:me@ardev.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/email-dark.svg"><img alt="me@ardev.dev" src="https://raw.githubusercontent.com/zinon-software/.github/main/profile/assets/email-light.svg" width="244"></picture></a>
 
 </div>
 
